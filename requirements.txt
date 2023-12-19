@@ -6,7 +6,7 @@ pylatex
 tellurium
 lxml
 seaborn
-scikit_learn
+scikit-learn
 nbsphinx
 tellurium
 pandas
