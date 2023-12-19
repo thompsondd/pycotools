@@ -51,7 +51,7 @@ setup(
   description='A python toolbox for COPASI',
   author='Ciaran Welsh',
   requires=['lxml', 'argparse', 'pandas', 'numpy', 'scipy',
-            'matplotlib', 'scipy', 'seaborn', 'scikit-learn',
+            'matplotlib', 'scipy', 'seaborn', 'scikit_learn',
             'retrying'],
   package_data={'pycotools':['*.py',
                              'Licence.txt',
@@ -68,7 +68,7 @@ setup(
 
   license='GPL4',
   install_requires=['pandas', 'numpy', 'scipy', 'matplotlib',
-                    'lxml', 'seaborn', 'scikit-learn', 'openpyxl', 'xlrd', 'psutil',
+                    'lxml', 'seaborn', 'scikit_learn', 'openpyxl', 'xlrd', 'psutil',
                     'tellurium'],
 
   long_description='A python package for enhancing mathematical'
